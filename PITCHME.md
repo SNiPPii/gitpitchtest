@@ -1,15 +1,24 @@
-# Flux 
+# Die erste Präsentation 
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Dies ist meine erste Präsentation mit gitpitch
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Seite 1
+
+- Einfaches Markup
+- Leicht zu erstellen
+- Schwer zu meistern
+
++++
+
+## Unterseite
+
+Dies ist eine Unterseite
+
+---
+
+### Seite 2
+
+Puhh! Das ist nun langsam auch das Ende.
+Alles gesagt..
